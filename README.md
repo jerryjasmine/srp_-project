@@ -1,2 +1,2 @@
 # srp_-project
-online voting system
+Online voting system app for SRP project in 3rd year
